@@ -71,10 +71,10 @@ public class conexion {
         modeloCategoria modacat = new modeloCategoria();
         controladorCategoria cc = new controladorCategoria(modacat);
         */
-        //Linda:prueba iniciar sesion login:---si sirve
+       /* //Linda:prueba iniciar sesion login:---si sirve
         ModeloUsuario modusuario = new ModeloUsuario();
         controladorLogin clogin = new controladorLogin(modusuario);
-       
+       */
         }  
     }
     
